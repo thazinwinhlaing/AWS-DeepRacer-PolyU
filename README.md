@@ -1,5 +1,5 @@
 # AWS DeepRacer Autonomous Racing (PolyU)
-A reinforcement learning (RL) project to train an AWS DeepRacer model for autonomous track navigation, developed to showcase machine learning skills for AeU’s BICT application, leveraging my PolyU Mechanical Engineering background.
+A reinforcement learning (RL) project to train an AWS DeepRacer model for autonomous track navigation, developed to showcase machine learning skills, leveraging my PolyU Mechanical Engineering background.
 
 ## Purpose
 Simulates autonomous vehicle control, applying RL to optimize lap times on a virtual track. Connects mechanical engineering (vehicle dynamics) with BICT’s data science modules for AI-resistant roles like data analyst.
